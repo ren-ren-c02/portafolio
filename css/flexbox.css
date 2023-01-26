@@ -1,0 +1,27 @@
+/*header*/
+
+header{
+    display: flex;
+}
+
+.menu__item{
+    justify-content: space-between;
+}
+
+/*main__home*/
+
+.title{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+/*about__me*/
+
+/*work*/
+
+#work{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

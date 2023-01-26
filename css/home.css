@@ -1,0 +1,21 @@
+.banner{
+    background: url(../my_work_img/pexels-luis-gomes-546819.jpg) center / cover no-repeat;
+    width: 100%;
+    height: 300px;
+    margin: 0;
+}
+
+.title{
+    text-align: center;
+    color: rgba(210, 210, 210, 0.92);
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 2.5rem;
+    font-weight: lighter;
+}
